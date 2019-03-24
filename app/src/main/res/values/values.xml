@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v11">One,One</string>
+    <string name="v12">One,Two</string>
+    <string name="v13">One,Three</string>
+    <string name="v14">One,Four</string>
+    <string name="v21">Two,One</string>
+    <string name="v22">Two,Two</string>
+    <string name="v23">Two,Three</string>
+    <string name="v24">Two,Four</string>
+    <string name="v31">Three,One</string>
+    <string name="v32">Three,Two</string>
+    <string name="v33">Three,Three</string>
+    <string name="v34">Three,Four</string>
+    <string name="v41">Four,One</string>
+    <string name="v42">Four,Two</string>
+    <string name="v43">Four,Three</string>
+    <string name="v44">Four,Four</string>
+    <string name="red">red</string>
+    <string name="orange">orange</string>
+    <string name="yellow">yellow</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="indigo">indigo</string>
+    <string name="violet">violet</string>
+    <string name="referToLinearLayout">LinearLayout</string>
+    <string name="referToConstraintLayout">ConstraintLayout</string>
+    <string name="referToTableLayout">TableLayout</string>
+    <string name="btn_row0">Open...</string>
+    <string name="btn_row1">Save...</string>
+    <string name="btn_row2">Save As...</string>
+    <string name="btn_row3">X Import...</string>
+    <string name="btn_row4">X Export...</string>
+    <string name="btn_row5">Quit...</string>
+    <string name="table_title">Hello TableLayout</string>
+    <string name="btn_qk0">Ctrl-O</string>
+    <string name="btn_qk1">Ctrl-S</string>
+    <string name="btn_qk2">Ctrl-Shift-S</string>
+    <string name="btn_qk4">Ctrl-E</string>
+</resources>
